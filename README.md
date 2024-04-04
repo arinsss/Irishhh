@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /
     <!-- Google Font-->
     <link
       href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
@@ -27,8 +25,6 @@
       <div class="inside">
         <p>Happy 16th hon, hope you're doing fine. May your special day be as joyful and bright as you are. So sorry if I can't be with you right now but always remember that I am here supporting and loving you. Hope to see you soon. I Love You!</p>
         <h1>&#127873;</h1>
-  </body>
-</html>
 
 
   
